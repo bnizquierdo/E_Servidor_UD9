@@ -29,11 +29,12 @@
     </div>
 
  
-    <!--categorias-->
+    <!--catalogo-->
     <div class="small-container">
         <h1 class="title">Camisetas</h1>
         <div class="row">
             <div class="col-4">
+                <!--Formularios para enviar los datos mediante el método post-->
                 <form method="post" action="carro.php?nombre=Camiseta_Roja&precio=20">
                     <img src="img/product-1.jpg" alt="">
                     <h4>Camiseta roja</h4>
